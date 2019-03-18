@@ -1,0 +1,6 @@
+[submodule "account.cdwaddell.com"]
+	path = account.cdwaddell.com
+	url = https://github.com/cdwaddell/account.cdwaddell.com.git
+[submodule "DemoApi"]
+	path = DemoApi
+	url = https://github.com/cdwaddell/DemoApi.git
